@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Counter App 
+[Demo](https://cocky-einstein-cda59e.netlify.app/)
+
+![counting up down reset](./reacthookcount.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
